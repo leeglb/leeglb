@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 Im Lee!</h1>
+<h1 align="left">I am Lee 🥇</h1>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Potential full-stack & machine learning developer. <br>📚 I'm currently learning Pytorch and diving into the field of LLM's<br>🎯 Goals: To build an entire LLM<br>🎲 Fun fact: I hope to work for Nasa :)</p>
+<p align="left">✨ Potential full-stack & machine learning developer. <br>📚 I'm currently learning Pytorch and diving into the field of LLM's & Data Science<br>🎯 Goals: To build an entire LLM<br>🎲 Fun fact: I hope to work for Nasa</p>
 
 ###
 
