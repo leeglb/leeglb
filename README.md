@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Im a Computer Science and Economics student from Australia :O</p>
+<p align="left">I am a current 3rd year student studying both computer science and economics.</p>
 
 ###
 
