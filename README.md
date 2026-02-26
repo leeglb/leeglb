@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Lee+Galbraith;CS+%2B+Economics+Student;Future+NASA+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Lee+Galbraith" alt="Typing SVG" />
 </h1>
 
 ### Professional Background
@@ -14,7 +14,7 @@ I am a Bachelors student at the **University of Queensland**, bridging the gap b
 
 ### Activity & Commit Metrics
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=leeglb&theme=tokyonight&area=true&hide_border=true" width="100%" alt="Commit Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=leeglb&area=true&hide_border=true" width="100%" alt="Commit Graph" />
 </p>
 
 <div align="center">
