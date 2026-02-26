@@ -1,49 +1,51 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=F7DF1E&center=true&vCenter=true&width=435&lines=I+am+Lee+🥇;Future+NASA+Engineer+🚀;LLM+Architect+in+Training" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=F7DF1E&center=true&vCenter=true&width=435&lines=I+am+Lee;Computer+Science+and+Economics;Future+NASA+Engineer" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://v-header.vercel.app/api?text=Welcome%20to%20my%20Space&color=gradient&height=150" alt="Stable Header" />
+  <img src="https://v-header.vercel.app/api?text=Welcome+to+my+Profile&color=gradient&height=120" alt="Header" />
 </p>
 
-### 🛰️ Mission Briefing
-I am a 3rd-year student bridging the gap between **Computer Science** and **Economics**. I'm currently deep-diving into the architecture of Large Language Models (LLMs) and mastering the art of Data Science.
+### Background
+I am a 3rd-year student studying both Computer Science and Economics. Currently, I am focused on the architecture of Large Language Models and mastering Data Science through PyTorch.
 
-* ✨ **Focus:** Full-Stack & Machine Learning
-* 📚 **Current Stack:** PyTorch & LLM fine-tuning
-* 🎯 **Objective:** Build an entire LLM from scratch
-* 🎲 **Fun Fact:** My dream workspace is Mission Control at NASA
+* **Professional Focus:** Full-Stack and Machine Learning Development
+* **Current Study:** Learning PyTorch and diving into LLMs
+* **Primary Goal:** To build an entire Large Language Model from scratch
+* **Career Interest:** I hope to work for NASA
 
 ---
 
-### 🛠️ Tech Universe
+### Tech Stack
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,pytorch,java,mysql,r,c,html,css,js,git,linux,aws" />
-  </a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
 
-### 📊 Galactic Stats
+### Development Statistics
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=leeglb&show_icons=true&theme=tokyonight&count_private=true" height="170" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=leeglb&layout=compact&theme=tokyonight" height="170" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=leeglb&show_icons=true&theme=tokyonight&count_private=true" height="170" alt="Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=leeglb&layout=compact&theme=tokyonight" height="170" alt="Languages" />
 </div>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leeglb&theme=tokyonight" width="100%" />
-</p>
-
 ---
 
-### 🔗 Connect with me
+### Contact Information
 <p align="left">
-<a href="https://www.linkedin.com/in/lee-galbraith-5089102ab/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://discordapp.com/users/382041324129484810" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
-<a href="https://www.instagram.com/lee.glb/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-</p>
-
-<p align="right"> 
-  <img src="https://komarev.com/ghpvc/?username=leeglb&label=Profile%20Views&color=0e75b6&style=flat" alt="Views" />
-</p>
+  <a href="https://www.linkedin.com/in/lee-galbraith-5089102ab/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=LinkedIn&message=Connect&color=0077B5&style=plastic&logo=linkedin" />
+  </a>
+  <a href="https://discordapp.com/users/382041324129484810" target="_blank">
+    <img src="
