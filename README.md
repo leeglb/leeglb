@@ -11,17 +11,6 @@ I am a Bachelors student at the **University of Queensland**, bridging the gap b
 * **Career Goal:** To work at **NASA**.
 
 ---
-
-### Activity & Commit Metrics
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=leeglb&area=true&hide_border=true" width="100%" alt="Commit Graph" />
-</p>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leeglb&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leeglb&layout=compact&theme=tokyonight" alt="Languages" height="180px" />
-</div>
-
 ---
 
 ### Tech Stack
@@ -61,4 +50,3 @@ I am a Bachelors student at the **University of Queensland**, bridging the gap b
   <a href="mailto:galbraithlee76@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?label=Email&message=Contact&color=D14836&style=plastic&logo=gmail" />
   </a>
-  <a href="
