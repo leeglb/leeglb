@@ -1,19 +1,30 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Lee + Galbraith" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Lee+Galbraith;CS+%2B+Economics+Student;Future+NASA+Engineer" alt="Typing SVG" />
 </h1>
 
-
 ### Professional Background
-I am a Bachelors student at the **University of Queensland**, bridging the gap between **Computer Science** and **Economics**. I cover an array of languages from frontend, machine learning, capture detection to ARIMA forecasting and EDA analysis. 
+I am a Bachelors student at the **University of Queensland**, bridging the gap between **Computer Science** and **Economics**. I cover an array of languages from frontend, machine learning, and capture detection to ARIMA forecasting and EDA analysis. 
 
 * **Current Role:** Executive at the Competitive Programming Group (CPG).
 * **Focus:** Data Science, Algorithmic Optimization, and Full-Stack Development.
 * **Key Achievement:** Awarded "Spirit of the Weekend" at the Build For Impact Hackathon.
-* **Career Goal:** To work at NASA. **NASA**.
+* **Career Goal:** To work at **NASA**.
 
 ---
 
-### Tech Stack:
+### Activity & Commit Metrics
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=leeglb&theme=tokyonight&area=true&hide_border=true" width="100%" alt="Commit Graph" />
+</p>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=leeglb&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leeglb&layout=compact&theme=tokyonight" alt="Languages" height="180px" />
+</div>
+
+---
+
+### Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
@@ -50,11 +61,4 @@ I am a Bachelors student at the **University of Queensland**, bridging the gap b
   <a href="mailto:galbraithlee76@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?label=Email&message=Contact&color=D14836&style=plastic&logo=gmail" />
   </a>
-  <a href="https://discordapp.com/users/382041324129484810" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=Discord&message=Chat&color=5865F2&style=plastic&logo=discord" />
-  </a>
-</p>
-
-<p align="right"> 
-  <img src="https://komarev.com/ghpvc/?username=leeglb&label=Profile%20Views&color=0e75b6&style=flat" alt="Views" />
-</p>
+  <a href="
