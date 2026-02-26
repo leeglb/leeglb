@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F7DF1E&center=true&vCenter=true&width=435&lines=I+am+Lee+🥇;Future+NASA+Engineer+🚀;LLM+Architect+in+Training" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=F7DF1E&center=true&vCenter=true&width=435&lines=I+am+Lee+🥇;Future+NASA+Engineer+🚀;LLM+Architect+in+Training" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=0077B5&height=120&section=header&text=Welcome%20to%20my%20Space&fontSize=50" alt="Header Banner" />
+  <img src="https://v-header.vercel.app/api?text=Welcome%20to%20my%20Space&color=gradient&height=150" alt="Stable Header" />
 </p>
 
 ### 🛰️ Mission Briefing
@@ -12,7 +12,7 @@ I am a 3rd-year student bridging the gap between **Computer Science** and **Econ
 * ✨ **Focus:** Full-Stack & Machine Learning
 * 📚 **Current Stack:** PyTorch & LLM fine-tuning
 * 🎯 **Objective:** Build an entire LLM from scratch
-* 🎲 **Fun Fact:** I hope to work for **NASA**
+* 🎲 **Fun Fact:** My dream workspace is Mission Control at NASA
 
 ---
 
@@ -27,9 +27,13 @@ I am a 3rd-year student bridging the gap between **Computer Science** and **Econ
 
 ### 📊 Galactic Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leeglb&show_icons=true&theme=transparent&rank_icon=github&border_radius=10" height="170" alt="Stats Error: Check Username" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leeglb&layout=compact&theme=transparent&border_radius=10" height="170" alt="Langs Error: Check Username" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=leeglb&show_icons=true&theme=tokyonight&count_private=true" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=leeglb&layout=compact&theme=tokyonight" height="170" alt="Top Languages" />
 </div>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leeglb&theme=tokyonight" width="100%" />
+</p>
 
 ---
 
