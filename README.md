@@ -10,8 +10,11 @@ I am a Bachelors student at the **University of Queensland**, bridging the gap b
 * **Key Achievement:** Awarded "Spirit of the Weekend" at the Build For Impact Hackathon.
 * **Career Goal:** To work at **NASA**.
 
+
+
 ---
----
+
+
 
 ### Tech Stack
 <p align="center">
@@ -33,14 +36,22 @@ I am a Bachelors student at the **University of Queensland**, bridging the gap b
 
 **Libraries & Tools:** `YOLOv8` • `pandas` • `NumPy` • `Matplotlib` • `MediaPipe` • `StatsModels (ARIMA)`
 
+
+
 ---
+
+
 
 ### Featured Projects
 * **Crime Analytics Surveillance:** Built a YOLOv8-based real-time security pipeline with ARIMA forecasting to project crime trends and automate intrusion alerts.
 * **Campus Kitchen Prototype:** Developed a QR-based food check-in and ordering platform to reduce waste and improve service speed.
 * **Mars Colony Sustainability:** Designed a conceptual energy system evaluating nuclear power for long-term environmental resilience on Mars.
 
+
+
 ---
+
+
 
 ### Contact Information
 <p align="center">
@@ -50,3 +61,4 @@ I am a Bachelors student at the **University of Queensland**, bridging the gap b
   <a href="mailto:galbraithlee76@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?label=Email&message=Contact&color=D14836&style=plastic&logo=gmail" />
   </a>
+</p>
