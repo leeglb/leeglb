@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=F7DF1E&center=true&vCenter=true&width=435&lines=I+am+Lee;Computer+Science+and+Economics;Future+NASA+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=F7DF1E&center=true&vCenter=true&width=435&lines=I+am+Lee" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -17,7 +17,7 @@ I am a 3rd-year student studying both Computer Science and Economics. Currently,
 ---
 
 ### Tech Stack
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
