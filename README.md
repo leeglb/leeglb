@@ -1,72 +1,48 @@
-<h1 align="left">I am Lee 🥇</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=F7DF1E&center=true&vCenter=true&width=435&lines=I+am+Lee+🥇;Computer+Science+%2B+Econ;Future+NASA+Engineer+🚀" alt="Typing SVG" />
+</h1>
 
-###
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20my%20Space&fontSize=70&animation=fadeIn" alt="header" />
+</p>
 
-<p align="left">I am a current 3rd year student studying both computer science and economics.</p>
+### 🛰️ Mission Log
+I am a 3rd-year student bridging the gap between **Computer Science** and **Economics**. I'm currently deep-diving into the architecture of Large Language Models (LLMs) and mastering the art of Data Science.
 
-###
+* ✨ **Focus:** Potential Full-Stack & Machine Learning Developer
+* 🎯 **Objective:** Build a custom LLM from the ground up
+* 🎲 **Fun Fact:** My dream workspace is Mission Control at NASA
 
-<h2 align="left">About me</h2>
+---
 
-###
+### 🛠️ Tech Universe
+I use these tools to build and analyze:
 
-<p align="left">✨ Potential full-stack & machine learning developer. <br>📚 I'm currently learning Pytorch and diving into the field of LLM's & Data Science<br>🎯 Goals: To build an entire LLM<br>🎲 Fun fact: I hope to work for Nasa</p>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java,mysql,r,c,html,css,js,pytorch,git,linux" />
+  </a>
+</p>
 
-###
+---
 
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="40" alt="rstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-</div>
-
-###
-
-<h3 align="left">My Stats!</h3>
-
-###
-
+### 📊 Galactic Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leeglb&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=leeglb&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=leeglb&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true" alt="Lee's Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leeglb&layout=compact&theme=tokyonight" alt="Top Languages" height="180px" />
 </div>
 
-###
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leeglb&theme=tokyonight" alt="Streak Stats" />
+</p>
 
-<h3 align="left">My socials :p</h3>
+---
 
-###
+### 🔗 Connect with me
+<p align="left">
+<a href="https://www.linkedin.com/in/lee-galbraith-5089102ab/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://discordapp.com/users/382041324129484810" target="_blank"><img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+<a href="https://www.instagram.com/lee.glb/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</p>
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/lee-galbraith-5089102ab/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://discordapp.com/users/382041324129484810" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-  <a href="https://www.instagram.com/lee.glb/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-</div>
-
-###
+<img src="https://raw.githubusercontent.com/trinib/trinib/main/resources/ascii-creeper-pixel-art.gif" align="right" width="150" />
